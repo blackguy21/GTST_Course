@@ -1,7 +1,7 @@
-#Linux
-*Kernel
+# Linux
+* Kernel
 Kernel is a code/program that used to meet your Software and Hardware. And allocate some resources.
-*What is Shell?
+* What is Shell?
 . Users communicate with the kernel by the shell.
 
 ● The Shell is a Command Line Interpreter. It translates commands entered by the user and converts them into a  language that is understood by the Kernel
